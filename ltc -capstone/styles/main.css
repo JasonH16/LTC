@@ -9,3 +9,8 @@ footer {
     text-align: center;
     font-size: small;
 }
+body {
+    background-image: url(images/sea.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
