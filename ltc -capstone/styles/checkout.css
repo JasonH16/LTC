@@ -43,9 +43,9 @@ body {
 }
 
 .container {
-  background-color: #fffefe;
+  background-color: #ece5e5;
   padding: 5px 20px 15px 20px;
-  border: 1px solid lightgrey;
+  border: 1px solid rgb(219, 14, 14);
   border-radius: 3px;
 }
 
@@ -70,7 +70,7 @@ label {
 
 .btn {
   background-color: #04AA6D;
-  color: white;
+  color: rgb(228, 228, 228);
   padding: 12px;
   margin: 10px 0;
   border: none;
@@ -85,7 +85,7 @@ label {
 }
 
 a {
-  color: #2196F3;
+  color: #3b208b;
 }
 
 hr {
@@ -94,7 +94,7 @@ hr {
 
 span.price {
   float: right;
-  color: grey;
+  color: rgb(126, 56, 56);
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */
