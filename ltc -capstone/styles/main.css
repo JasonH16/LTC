@@ -1,25 +1,30 @@
 header {
     text-align: center;
     color: aqua
-    
 }
+
 article {
     text-align: center;
 }
+
 footer {
     text-align: center;
     font-size: larger;
-    color: aqua;
+    color: rgba(224, 235, 235, 0.829);
 }
+
 body {
     background-image: url(../images/sea2.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
+    text-align: center;
 }
+
 .card {
-    display:inline-block;
+    display: inline-block;
     vertical-align: top;
 }
+
 .card-img-top {
     width: 18rem;
     height: 18rem;
