@@ -35,3 +35,6 @@ body {
     height: 18rem;
     object-fit: cover;
 }
+.form-check {
+    text-align: left;
+}
