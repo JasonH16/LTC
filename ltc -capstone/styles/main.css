@@ -38,3 +38,7 @@ body {
 .form-check {
     text-align: left;
 }
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
