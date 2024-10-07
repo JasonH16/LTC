@@ -4,7 +4,5 @@ At BigFishCustomAcrylicAquariums, we specialize in designing and building high-q
 
 Explore our range of beautiful, durable acrylic tanks, each crafted to enhance the beauty of your aquatic life while offering a sleek and modern look. From small, personalized aquariums to large, bespoke installations, we provide solutions that blend aesthetics with functionality.
 
-
-<img src="/images/home.jpeg.png" alt="Screenshot" width="500"/>
-
+[home.jpeg.png]
 
